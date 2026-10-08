@@ -1,0 +1,11 @@
+# Robots.txt for Crispy Chicken Spot
+User-agent: *
+Allow: /
+Allow: /menu
+Allow: /menu/*
+Allow: /sitemap.xml
+Disallow: /scratch/
+Disallow: /*.bak$
+
+# Sitemap declaration
+Sitemap: https://crispychickenspot.com/sitemap.xml

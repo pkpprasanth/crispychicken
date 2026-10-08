@@ -1,0 +1,12 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Backups and temp files
+*.bak
+*.tmp
+*.swp
+*~
+
+# Logs
+*.log
